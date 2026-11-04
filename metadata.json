@@ -1,0 +1,6 @@
+{
+  "name": "Chronos Agenda",
+  "description": "Agenda inteligente y privada para Android e iOS con calendario visual, dashboard de actividades, widgets interactivos, cifrado local y sincronización con Google Calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
